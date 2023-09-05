@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<style type="text/css">
+html{
+	background-image:url(chilehero_horizontal.png);
+	background-position-x: 250px; margin: auto;  
+	background-repeat:no-repeat;
+	background-color: black;}
+table,tr,td,th{
+	color:white;
+	text-align: center;
+	border:white 1px solid;
+	margin:auto;
+	background-position-y: -8800px;
+}
+.boton{
+	border: 10px solid darkblue;
+	background-color: darkblue;
+	color:white;
+	font-size:25px;
+	border-radius: 50px;
+	text-decoration: none;
+}
+</style>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Chile Hero</title>
+	<link rel="shortcut icon" type="image/png"  href="chileherologo.png"/>
+</head>
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a class="boton" href="request.html" target="_blank">Pide tu canción</a><a class="boton" href="setlist.html" target="_blank">Setlist</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table>
+  		<tr>
+  		<th style="color:red;">Album</th>
+  		<th>Artista</th>
+  		<th style="color: blue;">Canción</th>
+  		<th><img src="CloneHero.png" width="100" height="100"></img></th>
+  		<th><img src="wtde_logo.png" width="100" height="100"></img></th>
+  		<th><img src="Icon_Guitar.png" width="75" height="75"></img></th>
+  		<th><img src="Icon_Bass.png" width="75" height="75"></img></th>
+ 		</tr>
+  		<tr>
+  		<td><img src="aleste.png" width="100" height="100"></td></img>
+  		<td>Al Este</td>
+  		<td>Hay un limite</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="I.jpg" width="100" height="100"></td></img>
+  		<td>Alejandro Silva</td>
+  		<td>El Lagarto</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="5diff.png" width="30" height="30"></img></td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="tinto.jpg" width="100" height="100"></td></img>
+  		<td>Chancho en piedra</td>
+  		<td>El Impostor</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="chancho.png" width="100" height="100"></td></img>
+  		<td>Chancho en piedra</td>
+  		<td>Eligiendo una Reina</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="chancho.png" width="100" height="100"></td></img>
+  		<td>Chancho en piedra</td>
+  		<td>Historia de Amor y Condon</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="5diff.png" width="30" height="30"></img></td>
+  		<td><img src="5diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="fiskales.jpg" width="100" height="100"></td></img>
+  		<td>Fiskales Ad-Hok</td>
+  		<td>Ranchera</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="gondwana.png" width="100" height="100"></td></img>
+  		<td>Gondwana</td>
+  		<td>Movimiento Original</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="calle.jpg" width="100" height="100"></td></img>
+  		<td>Gufi</td>
+  		<td>Por Ella</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="am.png" width="100" height="100"></td></img>
+  		<td>Javiera y Los Imposibles</td>
+  		<td>Respiro</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="sobrevive.jpg" width="100" height="100"></td></img>
+  		<td>Kudai</td>
+  		<td>Dejame Gritar</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="vuelo.png" width="100" height="100"></td></img>
+  		<td>Kudai</td>
+  		<td>Lejos de la Ciudad</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="llevame.png" width="100" height="100"></td></img>
+  		<td>Kudai</td>
+  		<td>Llevame</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="vuelo.png" width="100" height="100"></td></img>
+  		<td>Kudai</td>
+  		<td>Ya Nada Queda</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		</tr>
+  		<tr>
+  		<td><img src="La_Ley_MTV.jpg" width="100" height="100"></td></img>
+  		<td>La Ley</td>
+  		<td>Mentira</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		</tr>
+  		<tr>
+  		<td><img src="rue.jpg" width="100" height="100"></td></img>
+  		<td>La Rue Morgue</td>
+  		<td>Sigues Dando Vueltas</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		</tr>
+  		<tr>
+  		<td><img src="dulce.jpg" width="100" height="100"></td></img>
+  		<td>La Sociedad</td>
+  		<td>Nada quedará</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		</tr>
+  		<tr>
+  		<td><img src="camino.jpg" width="100" height="100"></td></img>
+  		<td>La Sociedad</td>
+  		<td>Quizas</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		</tr>
+  		<tr>
+  		<td><img src="musica.png" width="100" height="100"></td></img>
+  		<td>Los Bunkers</td>
+  		<td>Ángel Para Un Final</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		</tr>
+  		<tr>
+  		<td><img src="velocidad.jpg" width="100" height="100"></td></img>
+  		<td>Los Bunkers</td>
+  		<td>Bailando Solo</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		</tr>
+  		<tr>
+  		<td><img src="infiel.jpg" width="100" height="100"></td></img>
+  		<td>Los Bunkers</td>
+  		<td>Infiel</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="perros.jpg" width="100" height="100"></td></img>
+  		<td>Los Bunkers</td>
+  		<td>Llueve Sobre la Ciudad</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<tr>
+  		<td><img src="perros.jpg" width="100" height="100"></td></img>
+  		<td>Los Bunkers</td>
+  		<td>Mientele</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="vargas.jpg" width="100" height="100"></td></img>
+  		<td>Los Hermanos Vargas</td>
+  		<td>En Cañete</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="6diff.png" width="30" height="30"></img></td>
+  		<td>-</td>
+  		</tr>
+  		<tr>
+  		<td><img src="ventana.jpg" width="100" height="100"></td></img>
+  		<td>Los Jaivas</td>
+  		<td>Mira Niñita</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="4diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="multitudes.png" width="100" height="100"></td></img>
+  		<td>Los Miserables</td>
+  		<td>Un Crack</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="vino.png" width="100" height="100"></td></img>
+  		<td>Los Mox!</td>
+  		<td>Lo Cortes no Quita lo Caliente</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="cover.png" width="100" height="100"></td></img>
+  		<td>Los Mox!</td>
+  		<td>No lo Aceptaremox</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="vino.png" width="100" height="100"></td></img>
+  		<td>Los Mox!</td>
+  		<td>Ron Damon</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="cover.png" width="100" height="100"></td></img>
+  		<td>Los Mox!</td>
+  		<td>Un Beso y una Flor (con Tono)</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="peoreschile.jpg" width="100" height="100"></td></img>
+  		<td>Los Peores De Chile</td>
+  		<td>Sindrome Camboya</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="5diff.png" width="30" height="30"></img></td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="cultura.jpg" width="100" height="100"></td></img>
+  		<td>Los Prisioneros</td>
+  		<td>Maldito Sudaca</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="80.png" width="100" height="100"></td></img>
+  		<td>Los Prisioneros</td>
+  		<td>Nunca Quedas Mal Con Nadie</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="corazones.png" width="100" height="100"></td></img>
+  		<td>Los Prisioneros</td>
+  		<td>Tren al Sur</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<tr>
+  		<td><img src="peces.jpg" width="100" height="100"></td></img>
+  		<td>Lucybell</td>
+  		<td>Cuando Respiro en Tu Boca</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="simple.jpg" width="100" height="100"></td></img>
+  		<td>Nabu</td>
+  		<td>Donde Vas</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="pettinellis.jpg" width="100" height="100"></td></img>
+  		<td>Pettinellis</td>
+  		<td>Hospital</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="pettinellis.jpg" width="100" height="100"></td></img>
+  		<td>Pettinellis</td>
+  		<td>Un Hombre Muerto En El Ring</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="delirio.png" width="100" height="100"></td></img>
+  		<td>Sinergia</td>
+  		<td>Te Enojai Por Todo</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="procesalo.jpg" width="100" height="100"></td></img>
+  		<td>Sinergia</td>
+  		<td>Todos Me Deben Plata</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="limpia.jpg" width="100" height="100"></td></img>
+  		<td>Tronic</td>
+  		<td>Amazander</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="limpia.jpg" width="100" height="100"></td></img>
+  		<td>Tronic</td>
+  		<td>Batibrayan</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="limpia.jpg" width="100" height="100"></td></img>
+  		<td>Tronic</td>
+  		<td>Cobrador Humano</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="limpia.jpg" width="100" height="100"></td></img>
+  		<td>Tronic</td>
+  		<td>Descartable</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="limpia.jpg" width="100" height="100"></td></img>
+  		<td>Tronic</td>
+  		<td>Despierta</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="limpia.jpg" width="100" height="100"></td></img>
+  		<td>Tronic</td>
+  		<td>El Arrecife</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="limpia.jpg" width="100" height="100"></td></img>
+  		<td>Tronic</td>
+  		<td>El Fuego</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="limpia.jpg" width="100" height="100"></td></img>
+  		<td>Tronic</td>
+  		<td>Junior Club</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="limpia.jpg" width="100" height="100"></td></img>
+  		<td>Tronic</td>
+  		<td>Kerido</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="limpia.jpg" width="100" height="100"></td></img>
+  		<td>Tronic</td>
+  		<td>La Colina</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="limpia.jpg" width="100" height="100"></td></img>
+  		<td>Tronic</td>
+  		<td>La Granja</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="limpia.jpg" width="100" height="100"></td></img>
+  		<td>Tronic</td>
+  		<td>Newbie</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="limpia.jpg" width="100" height="100"></td></img>
+  		<td>Tronic</td>
+  		<td>Picao a Vit</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		<td><img src="1diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="limpia.jpg" width="100" height="100"></td></img>
+  		<td>Tronic</td>
+  		<td>Playboy</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="limpia.jpg" width="100" height="100"></td></img>
+  		<td>Tronic</td>
+  		<td>Titas y Drogas</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		<td><img src="3diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="limpia.jpg" width="100" height="100"></td></img>
+  		<td>Tronic</td>
+  		<td>Veinte Por Ciento</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  		<td><img src="limpia.jpg" width="100" height="100"></td></img>
+  		<td>Tronic</td>
+  		<td>Zigura Roel</td>
+  		<td>Descargar CH</td>
+  		<td>Descargar GHWT</td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		<td><img src="2diff.png" width="30" height="30"></img></td>
+  		</tr>
+  	</table>
+  </div>
+</ul>
+<footer>
+	<p style="text-align: center;color: red; font-family:arial;">Copyright &copy; 2023 Chile Hero | smuggling</p>
+</footer>
+<br>
+</body>
+</html>
+
